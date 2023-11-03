@@ -23,7 +23,7 @@ const s3Client = new S3Client({
 });
 
 
-const bucketName = 'my-cool-local-bucket';
+const bucketName = 'my-cool-local-bucketcf';
 
 // const UPLOAD_TEMP_PATH = './uploads';
 
